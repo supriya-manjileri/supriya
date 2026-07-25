@@ -64,7 +64,7 @@ transform:scale(1.05);
 .banner{
 text-align:center;
 padding:60px;
-background-image:url("images/college.jpg");
+background-image:url("college.jpg");
 background-size:cover;
 background-position:center;
 color:white;
